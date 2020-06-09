@@ -1,0 +1,9 @@
+C:\Users\Aleksa\source\repos\DanieliFirstQuestion\DanieliFirstQuestion\bin\Debug\DanieliFirstQuestion.exe.config
+C:\Users\Aleksa\source\repos\DanieliFirstQuestion\DanieliFirstQuestion\bin\Debug\DanieliFirstQuestion.exe
+C:\Users\Aleksa\source\repos\DanieliFirstQuestion\DanieliFirstQuestion\bin\Debug\DanieliFirstQuestion.pdb
+C:\Users\Aleksa\source\repos\DanieliFirstQuestion\DanieliFirstQuestion\obj\Debug\DanieliFirstQuestion.csprojAssemblyReference.cache
+C:\Users\Aleksa\source\repos\DanieliFirstQuestion\DanieliFirstQuestion\obj\Debug\DanieliFirstQuestion.Form1.resources
+C:\Users\Aleksa\source\repos\DanieliFirstQuestion\DanieliFirstQuestion\obj\Debug\DanieliFirstQuestion.Properties.Resources.resources
+C:\Users\Aleksa\source\repos\DanieliFirstQuestion\DanieliFirstQuestion\obj\Debug\DanieliFirstQuestion.csproj.GenerateResource.cache
+C:\Users\Aleksa\source\repos\DanieliFirstQuestion\DanieliFirstQuestion\obj\Debug\DanieliFirstQuestion.exe
+C:\Users\Aleksa\source\repos\DanieliFirstQuestion\DanieliFirstQuestion\obj\Debug\DanieliFirstQuestion.pdb
